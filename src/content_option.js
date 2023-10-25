@@ -5,13 +5,13 @@ const meta = {
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "Welcome to Irreversible DAO",
     animated: {
-        first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
+        first: "Irreversible DAO is a decentralized film distribution company.",
+        second: "The DAO is named after Gaspar Noe's 2002 film Irréversible, the most walked-out-of film in Cannes history lmao.",
+        third: "The DAO will perform traditional operations associated with a film distribution company, but translate these for the crypto space.",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
+    description: "Irreversible DAO is a decentralized film distribution company.",
     your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
 };
 

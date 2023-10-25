@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200;300;400;500;600;700;800;900&display=swap');
+
+
 :root {
     --bg-color: #0c0c0c;
     --primary-color: #0d0d0d;
@@ -30,7 +33,7 @@ body {
     overflow-y: visible;
     background-color: var(--bg-color);
     color: var(--text-color);
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Inconsolata', monospace;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     padding-top: 60px;
@@ -48,7 +51,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: Marcellus;
+    font-family: 'Inconsolata', monospace;
 }
 
 a,
@@ -71,7 +74,7 @@ p {
 }
 
 code {
-    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+    font-family: 'Inconsolata', monospace;
 }
 
 .cursor__dot div {
