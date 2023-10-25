@@ -12,11 +12,11 @@ const introdata = {
         third: "The DAO will perform traditional operations associated with a film distribution company, but translate these for the crypto space.",
     },
     description: "Irreversible DAO is a decentralized film distribution company.",
-    your_img_url: "./assets/images/blackmaria.jpg",
+    your_img_url: "https://pbs.twimg.com/media/F9Tt1Vdb0AA6J0H?format=jpg&name=4096x4096",
 };
 
 const dataabout = {
-    title: "about Irreversible",
+    title: "About Irreversible DAO",
     aboutme: " Irreversible DAO is a decentralized film distribution company.",
 };
 const worktimeline = [{
@@ -137,8 +137,8 @@ const dataportfolio = [{
 
 const contactConfig = {
     YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    //YOUR_FONE: "(555)123-4567",
+    description: "We'll be opening up the DAO shortly. In the meantime, let us know where you found us and why you'd like to join. - Sisk ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",

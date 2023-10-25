@@ -55,14 +55,14 @@ export const Home = () => {
                       <div className="ring three"></div>
                     </div>
                   </Link>
-                  <Link to="/contact">
+                  <a href="https://www.google.com" target="_blank" rel="noopener noreferrer">
                     <div id="button_h" className="ac_btn btn">
                       Join
                       <div className="ring one"></div>
                       <div className="ring two"></div>
                       <div className="ring three"></div>
                     </div>
-                  </Link>
+                    </a>
                 </div>
               </div>
             </div>
