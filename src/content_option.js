@@ -1,7 +1,7 @@
-const logotext = "JOHN";
+const logotext = "Irreversible DAO";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Irreversible DAO",
+    description: "Irreversible DAO is a decentralized film distribution company.",
 };
 
 const introdata = {
@@ -12,12 +12,12 @@ const introdata = {
         third: "The DAO will perform traditional operations associated with a film distribution company, but translate these for the crypto space.",
     },
     description: "Irreversible DAO is a decentralized film distribution company.",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    your_img_url: "./assets/images/blackmaria.jpg",
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "about Irreversible",
+    aboutme: " Irreversible DAO is a decentralized film distribution company.",
 };
 const worktimeline = [{
         jobtitle: "Designer of week",
@@ -147,9 +147,9 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
+    //github: "https://github.com",
+    //facebook: "https://facebook.com",
+    //linkedin: "https://linkedin.com",
     twitter: "https://twitter.com",
 };
 export {
