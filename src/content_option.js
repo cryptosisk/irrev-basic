@@ -5,19 +5,19 @@ const meta = {
 };
 
 const introdata = {
-    title: "Irreversible DAO is a decentralized film distribution company",
+    title: "Irreversible DAO distributes edgier films using tokens.",
     animated: {
         first: "Irreversible DAO is a decentralized film distribution company.",
         second: "The DAO is named after Gaspar Noe's 2002 film Irréversible, the most walked-out-of film in Cannes history, lmao.",
         third: "The DAO will perform operations associated with a typical film distribution company, but translated for the crypto space.",
     },
-    description: "Irreversible DAO is a decentralized film distribution company.",
-    your_img_url: "https://i.imgur.com/fdUrj3h.jpg",
+    description: "We acquire, distribute, and exhibit films in the cryptospace. Read how.",
+    your_img_url: "https://i.imgur.com/ViBZfju.jpg",
 };
 
 const dataabout = {
-    title: "Treasury",
-    aboutme: "Irreversible DAO is run on top of DAOHaus' Arbitrum implementation. The JOIN button will take you to the DAOHaus page. Irreversible's treasury will be used to fund on-chain acquisition of experimental films using our unique acquisition method, and then distribute these acquired films using our unique distribution method. Intrigued? Read on."
+    title: "DAO Treasury",
+    aboutme: "Irreversible DAO is managed with DAOHaus' Arbitrum implementation. The JOIN button on the home page will take you to the DAOHaus page. Irreversible's treasury will be used to fund on-chain acquisition of experimental films using our unique method, and then managing the distribution of these films using our unique crypoto-centric method."
 };
 
 const worktimeline = [{
@@ -61,37 +61,39 @@ const skills = [{
 
 const services = [{
         title: "Distribution Channel & Exclusivity Window",
-        description: "First agree to the distribution channel for the film; e.g., Theater.wtf's token-gated VOD platform.",
-        description2: "Additionally, set the window Irreversible is able to offer NFT tickets for mint (and exhibition of the film); include optional extensions.",
+        description: "Negotiate the distribution channel for the film; e.g., Theater.wtf's token-gated VOD platform.",
+        description2: "Include details like the window of the relationship (pre-exhibition NFT ticketing & then exhibition); include optional time extensions.",
     },
     {
         title: "NFT Ticket Design",
-        description: "Define the initial NFT ticketing, e.g. how many will listed for minted to the public sale, and at what fixed or dynaic price point.",
+        description: "Negotiate the initial NFT ticketing run, e.g. token type, number of tokens (or time-based), and pricepoint(s).",
         description2: "Include details like revenue splits, or metadata credits for cast/crew."
     },
     {
         title: "DAO Responsibilities",
-        description: "Define various art and marketing responsibilities that Irreversible DAO will undertake (e.g. NFT Ticket poster art, promotion & marketing spend, etc.).",
+        description: "Negotiate what responsibilities Irreversible DAO will perform on behalf of the film (e.g. NFT Ticket poster art design, promotion & marketing spend, etc.).",
         description2: "Include  details like if there will be an advanced payment or unique ticket revenue split to the filmmaker, and how these will be handled and accounted for (and, if necessary, arbitrated upon future conflict)."
     },
 ];
 
 const alsoservices = [{
     title: "'Sign' Deal",
-    description: "DAO & filmmaker can elect to finalize these agreed upon dealterms via ethsign.xyz or another on-chain signing service.",
+    description: "DAO & filmmaker can elect to finalize the agreed upon deal-terms using an on-chain tool like ethsign.xyz.",
 },
 {
     title: "Mint NFT Tickets",
-    description: "Irreversible DAO mints the initial series of NFT tickets for the acquired film, and offers them for public mint, with funds directed back to the DAO treasury (based on split negotiated).",
+    description: "Irreversible DAO (or its Shaman, at first) mints the initial series of NFT tickets for the acquired film, and opens them for public mint, with mint funds directed back to the DAO's treasury.",
 },
 {
     title: "Publish Gated Videa (Theater)",
-    description: "Irreversible DAO (Shaman) or the filmmaker publishes the film to the distribution channel (e.g. Theater.wtf token-gated VOD), selecting the NFT Ticket as the required 'token pass' needed to enter and watch the film.  And we are, as they say, off to the races.",
+    description: "Irreversible DAO (or Shaman), or the filmmaker, publishes the film to the chosen distribution channel (e.g. a Theater.wtf token-gated VOD).",
+    description2: "The NFT Ticket is set as the required 'token pass' needed to enter and watch the film.  And we are, as they say, off to the races.",
+
 },
 {
     title: "Perform Agreed Tasks & Accounting",
-    description: "Irreversible DAO performs any additional tasks required in the agrement.",
-    description2: "Note: any follow-on NFT tickets issued for the acquired film are not to be sold; they are airdropped to the initial minter addresses, to share or trade freely. This is an important dynamic of the Irreversible DAO method, as it encourages those initial adopters to evangelize the film, because popularizing it will grant them airdropped tokens to distribute as they wish."
+    description: "Irreversible DAO performs any tasks specified in the agrement.",
+    description2: "Important Note: any follow-on NFT tickets issued for the acquired film are not to be sold; they are airdropped to the initial minter addresses, to share, sell, or trade freely. This is an important dynamic of the Irreversible DAO method, as it encourages those initial adopters to evangelize the film, because popularizing it will grant them airdropped tokens to distribute as they wish."
 },
 {
     title: "(Update Site, etc.)",

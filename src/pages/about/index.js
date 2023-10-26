@@ -83,7 +83,7 @@ export const About = () => {
         </Row>*/}
         <Row className="sec_sp">
           <Col lang="5">
-            <h3 className="color_sec py-4">Film Acquisition (Negotiation)</h3>
+            <h3 className="color_sec py-4">Film Acquisition</h3>
             <p>Any DAO member can informally negotiate a deal with a filmmaker to acquire a completed film...</p>
           </Col>
           <Col lg="7">
