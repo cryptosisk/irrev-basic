@@ -10,12 +10,12 @@ export const Portfolio = () => {
       <Container className="About-header">
         <Helmet>
           <meta charSet="utf-8" />
-          <title> Portfolio | {meta.title} </title>{" "}
+          <title> Irreversible Films | {meta.title} </title>{" "}
           <meta name="description" content={meta.description} />
         </Helmet>
         <Row className="mb-5 mt-3 pt-md-3">
           <Col lg="8">
-            <h1 className="display-4 mb-4"> Portfolio </h1>{" "}
+            <h1 className="display-4 mb-4"> Irreversible Films </h1>{" "}
             <hr className="t_border my-4 ml-0 text-left" />
           </Col>
         </Row>
@@ -26,7 +26,9 @@ export const Portfolio = () => {
                 <img src={data.img} alt="" />
                 <div className="content">
                   <p>{data.description}</p>
-                  <a href={data.link}>view project</a>
+                  <a href={data.link} target="_blank">Mint NFT Ticket</a>
+                  <br></br>
+                  <a href={data.linktwo} target="_blank">Watch Film</a>
                 </div>
               </div>
             );
