@@ -105,15 +105,15 @@ const dataportfolio = [
     {
         img: "https://i.imgur.com/F4OFT9A.png",
         description: "Here is a description of Film1.",
-        link: "https://google.com",
-        linktwo: "https://twitter.com",
+        link: "https://edition-drop-1.vercel.app/",
+        linktwo: "https://theater.wtf",
     },
-    {
-        img: "https://i.imgur.com/n5zKbWw.png",
-        description: "Film2 Coming Soon.",
-        link: "https://google.com",
-        linktwo: "https://twitter.com",
-    },
+    // {
+     //   img: "https://i.imgur.com/n5zKbWw.png",
+     //   description: "Film2 Coming Soon.",
+     //   link: "https://google.com",
+     //   linktwo: "https://twitter.com",
+  //  },
    
 ];
 

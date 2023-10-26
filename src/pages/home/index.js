@@ -55,7 +55,7 @@ export const Home = () => {
                       <div className="ring three"></div>
                     </div>
                   </Link>
-                  <a href="https://www.google.com" target="_blank" rel="noopener noreferrer">
+                  <a href="https://admin.daohaus.club/#/molochv3/0xa4b1/0xaa6ca0a18458e6d375d4fad7d10c1949baded1d2" target="_blank" rel="noopener noreferrer">
                     <div id="button_h" className="ac_btn btn">
                       Join
                       <div className="ring one"></div>
