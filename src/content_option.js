@@ -8,16 +8,16 @@ const introdata = {
     title: "Welcome to Irreversible DAO",
     animated: {
         first: "Irreversible DAO is a decentralized film distribution company.",
-        second: "The DAO is named after Gaspar Noe's 2002 film Irréversible, the most walked-out-of film in Cannes history lmao.",
-        third: "The DAO will perform traditional operations associated with a film distribution company, but translate these for the crypto space.",
+        second: "The DAO is named after Gaspar Noe's 2002 film Irréversible, the most walked-out-of film in Cannes history, lmao.",
+        third: "The DAO will perform operations associated with a typical film distribution company, but translated for the crypto space.",
     },
     description: "Irreversible DAO is a decentralized film distribution company.",
-    your_img_url: "https://i.imgur.com/7xV2QsF.jpg",
+    your_img_url: "https://i.imgur.com/fdUrj3h.jpg",
 };
 
 const dataabout = {
     title: "Treasury",
-    aboutme: "Irreversible DAO's treasury will be used to fund on-chain acquisition of experimental films using our unique acquisition method, and then distribute these acquired films using our unique distribution method. Intrigued? Read on."
+    aboutme: "Irreversible DAO is run on top of DAOHaus' Arbitrum implementation. The JOIN button will take you to the DAOHaus page. Irreversible's treasury will be used to fund on-chain acquisition of experimental films using our unique acquisition method, and then distribute these acquired films using our unique distribution method. Intrigued? Read on."
 };
 
 const worktimeline = [{
@@ -61,38 +61,37 @@ const skills = [{
 
 const services = [{
         title: "Distribution Channel & Exclusivity Window",
-        description: "First you should define the distribution channel you'll be distributing the film on; for example, the token-gated video platform of theater.wtf offers a way to open a movie theater within the crypto space.",
-        description2: "Additionally, define what duration of time Irreversible DAO will have the ability to offer NFT tickets and exhibit the film (including time extensions).",
+        description: "First agree to the distribution channel for the film; e.g., Theater.wtf's token-gated VOD platform.",
+        description2: "Additionally, set the window Irreversible is able to offer NFT tickets for mint (and exhibition of the film); include optional extensions.",
     },
     {
         title: "NFT Ticket Design",
-        description: "Define the ticketing, e.g. how many NFT tickets will be minted for initial public sale, and at what fixed or dynaic price point.",
-        description2: "Outline whether there will be any revenue splits, or if NFT ticket metadata needs to credit specific people."
+        description: "Define the initial NFT ticketing, e.g. how many will listed for minted to the public sale, and at what fixed or dynaic price point.",
+        description2: "Include details like revenue splits, or metadata credits for cast/crew."
     },
     {
         title: "DAO Responsibilities",
-        description: "What art and marketing is Irreversible DAO responsible for performing (e.g. NFT Ticket poster art, promotion & marketing spend, etc.)?",
-        description2: "Define if there will need to be an advanced payment or ticket split payment made to the filmmaker, and how these will be processed and accounted for (and, if necessary, arbitrated)."
+        description: "Define various art and marketing responsibilities that Irreversible DAO will undertake (e.g. NFT Ticket poster art, promotion & marketing spend, etc.).",
+        description2: "Include  details like if there will be an advanced payment or unique ticket revenue split to the filmmaker, and how these will be handled and accounted for (and, if necessary, arbitrated upon future conflict)."
     },
 ];
 
 const alsoservices = [{
     title: "'Sign' Deal",
-    description: "DAO & filmmaker finalize agreement via ethsign.xyz or another on-chain signing service.",
-    description2: "Additionally, define what duration of time Irreversible DAO will have the ability to offer NFT tickets and exhibit the film (including time extensions).",
+    description: "DAO & filmmaker can elect to finalize these agreed upon dealterms via ethsign.xyz or another on-chain signing service.",
 },
 {
     title: "Mint NFT Tickets",
-    description: "Irreversible DAO (or the DAO Shaman at first) mints the first batch of NFT tickets for the acquired film, and offers them for mint, with funds directed back to the DAO treasury.",
+    description: "Irreversible DAO mints the initial series of NFT tickets for the acquired film, and offers them for public mint, with funds directed back to the DAO treasury (based on split negotiated).",
 },
 {
     title: "Publish Gated Videa (Theater)",
-    description: "Using the NFT Ticket issued as the selected 'pass' to enter the gated video player, aka the 'Theater,' either the DAO or the filmmaker opens the gated theatrical exhibition, and we are, as they say, off to the races.",
+    description: "Irreversible DAO (Shaman) or the filmmaker publishes the film to the distribution channel (e.g. Theater.wtf token-gated VOD), selecting the NFT Ticket as the required 'token pass' needed to enter and watch the film.  And we are, as they say, off to the races.",
 },
 {
     title: "Perform Agreed Tasks & Accounting",
-    description: "If there are any payments that need to be made, either by DAO vote or by Shaman processing the transaction, they are made.",
-    description2: "Any new NFT tickets issued for the film are not to be sold, but instead airdropped to the initial minters to share or trade freely; this dynamic encourages early adopter support and evangelizing of the film."
+    description: "Irreversible DAO performs any additional tasks required in the agrement.",
+    description2: "Note: any follow-on NFT tickets issued for the acquired film are not to be sold; they are airdropped to the initial minter addresses, to share or trade freely. This is an important dynamic of the Irreversible DAO method, as it encourages those initial adopters to evangelize the film, because popularizing it will grant them airdropped tokens to distribute as they wish."
 },
 {
     title: "(Update Site, etc.)",
