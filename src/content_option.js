@@ -1,11 +1,11 @@
 const logotext = "Irreversible DAO";
 const meta = {
     title: "Irreversible DAO",
-    description: "Irreversible DAO is a decentralized film distribution company.",
+    description: "We acquire, distribute, and exhibit films in the cryptospace. Read how.",
 };
 
 const introdata = {
-    title: "Welcome to Irreversible DAO",
+    title: "Irreversible DAO is a decentralized film distribution company",
     animated: {
         first: "Irreversible DAO is a decentralized film distribution company.",
         second: "The DAO is named after Gaspar Noe's 2002 film Irréversible, the most walked-out-of film in Cannes history, lmao.",
