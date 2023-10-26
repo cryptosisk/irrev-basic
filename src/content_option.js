@@ -12,7 +12,7 @@ const introdata = {
         third: "The DAO will perform traditional operations associated with a film distribution company, but translate these for the crypto space.",
     },
     description: "Irreversible DAO is a decentralized film distribution company.",
-    your_img_url: "https://pbs.twimg.com/media/F9Tt1Vdb0AA6J0H?format=jpg&name=4096x4096",
+    your_img_url: "https://i.imgur.com/7xV2QsF.jpg",
 };
 
 const dataabout = {
