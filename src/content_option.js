@@ -19,6 +19,7 @@ const tldr = {
     title: "TLDR",
     factone: "Irreversible DAO is a decentralized film distribution company. It is named after Gaspar Noe's 2002 film Irréversible, the most walked-out-of film in Cannes history. We like that. We like that film.",
     facttwo: "Traditional film distribution companies acquire a film, market it, and then decide how to exhibit it most profitably. Irreversible DAO will translate this process for the emergent crypto space.",
+    factthree: "Irreversible will acquire films in our own way, using advanced payments to filmmakers if necessary, and then releases those films theatrically in the crypto space using NFT tickets and token-gated theaters.",
     factthree: "Validating the business model of ticketed exhibition within the crypto space, even on the smallest of scales, will help to nurture and grow a sustainable, original, independent film ecosystem on the decentralized web. It's how Janus Films came about in the 50s..",
 };
 
