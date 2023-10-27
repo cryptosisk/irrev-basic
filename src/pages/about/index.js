@@ -29,7 +29,7 @@ export const About = () => {
         </Row>
         <a href="https://twitter.com/mns/status/1697297216556380505" target="_blank" rel="noopener noreferrer">
                     <div id="button_h" className="ac_btn btn">
-                    ...read why sisk loooves crypto movie theaters...
+                    🧵: why crypto movie theaters...
                       <div className="ring one"></div>
                       <div className="ring two"></div>
                       <div className="ring three"></div>
@@ -46,6 +46,7 @@ export const About = () => {
               <p>{tldr.facttwo}</p>
               <p>{tldr.factthree}</p>
               <p>{tldr.factfour}</p>
+              <p>{tldr.factfive}</p>
             </div>
           </Col>
         </Row>
