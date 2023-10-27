@@ -129,6 +129,16 @@ const dataportfolio = [
    
 ];
 
+const threads = [
+    {
+        img: "https://i.imgur.com/PVsACcc.png",
+        description: "Thread1.",
+        link: "https://twitter.com/mns/status/1697297216556380505",
+    },
+   
+];
+
+
 const contactConfig = {
     YOUR_EMAIL: "name@domain.com",
     //YOUR_FONE: "(555)123-4567",
@@ -151,6 +161,7 @@ export {
     tldr,
     dataabout,
     dataportfolio,
+    threads,
     worktimeline,
     skills,
     services,
