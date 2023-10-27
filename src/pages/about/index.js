@@ -45,6 +45,7 @@ export const About = () => {
               <p>{tldr.factone}</p>
               <p>{tldr.facttwo}</p>
               <p>{tldr.factthree}</p>
+              <p>{tldr.factfour}</p>
             </div>
           </Col>
         </Row>
