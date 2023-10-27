@@ -27,15 +27,6 @@ export const About = () => {
             <hr className="t_border my-4 ml-0 text-left" />
           </Col>
         </Row>
-        <a href="https://twitter.com/mns/status/1697297216556380505" target="_blank" rel="noopener noreferrer">
-                    <div id="button_h" className="ac_btn btn">
-                    🧵: why crypto movie theaters...
-                      <div className="ring one"></div>
-                      <div className="ring two"></div>
-                      <div className="ring three"></div>
-                    </div>
-        </a>
-
         <Row className="sec_sp">
           <Col lg="5">
             <h3 className="color_sec py-4">{tldr.title}</h3>
