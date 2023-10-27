@@ -131,8 +131,8 @@ const dataportfolio = [
 
 const threads = [
     {
-        img: "https://i.imgur.com/PVsACcc.png",
-        description: "Thread1.",
+        img: "https://i.imgur.com/HLJiWeT.jpg",
+        description: "Sisk riffs on the importance of movie theaters.",
         link: "https://twitter.com/mns/status/1697297216556380505",
     },
    
