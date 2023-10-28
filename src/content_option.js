@@ -118,7 +118,7 @@ const dataportfolio = [
         img: "https://i.imgur.com/F4OFT9A.png",
         description: "Here is a description of Film1.",
         link: "https://edition-drop-1.vercel.app/",
-        linktwo: "https://theater.wtf",
+        linktwo: "https://livepeer-token-gated-5inlaztox-serdave-eth.vercel.app/watch/e910dflgrmae1q1o",
     },
     // {
      //   img: "https://i.imgur.com/n5zKbWw.png",
