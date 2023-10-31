@@ -135,6 +135,11 @@ const threads = [
         description: "Sisk riffs on the importance of movie theaters.",
         link: "https://twitter.com/mns/status/1697297216556380505",
     },
+    {
+        img: "https://i.imgur.com/BxgY7Rv.jpg",
+        description: "AI + crypto + movie theaters = cinema!",
+        link: "https://twitter.com/mns/status/1719440778311983597",
+    },
    
 ];
 
