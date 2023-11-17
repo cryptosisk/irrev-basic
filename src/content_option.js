@@ -116,7 +116,7 @@ const alsoservices = [{
 const dataportfolio = [
     {
         img: "https://i.imgur.com/F4OFT9A.png",
-        description: "Here is a description of Film1.",
+        description: "This is a sample film, a demonstration.",
         link: "https://edition-drop-1.vercel.app/",
         linktwo: "https://livepeer-token-gated-5inlaztox-serdave-eth.vercel.app/watch/e910dflgrmae1q1o",
     },
