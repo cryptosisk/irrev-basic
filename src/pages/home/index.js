@@ -47,17 +47,17 @@ export const Home = () => {
                       <div className="ring three"></div>
                     </div>
                   </Link>
-                  <a href="https://admin.daohaus.club/#/molochv3/0xa4b1/0x8e60081e2c2177adca88da2a9c7b6fa6148dbaa2" target="_blank" rel="noopener noreferrer">
+                  {/* <a href="https://admin.daohaus.club/#/molochv3/0xa4b1/0x8e60081e2c2177adca88da2a9c7b6fa6148dbaa2" target="_blank" rel="noopener noreferrer"> 
                     <div id="button_h" className="ac_btn btn">
                       Join
                       <div className="ring one"></div>
                       <div className="ring two"></div>
                       <div className="ring three"></div>
                     </div>
-                    </a>
+                    </a>*/}
                     <a href="https://irreversibledao.gitbook.io/docs/" target="_blank" rel="noopener noreferrer">
                     <div id="button_h" className="ac_btn btn">
-                      Docs
+                      Join
                       <div className="ring one"></div>
                       <div className="ring two"></div>
                       <div className="ring three"></div>
