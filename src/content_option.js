@@ -5,14 +5,14 @@ const meta = {
 };
 
 const introdata = {
-    title: "Irreversible DAO distributes films using tokens.",
+    title: "Irreversible DAO is a decentralized film distribution company.",
     animated: {
-        first: "Irreversible DAO is a decentralized film distribution company.",
-        second: "It's named after Gaspar Noe's 2002 film Irréversible, Cannes most walked out of film ever ;-).",
-        third: "The DAO will perform operations associated with a typical film distribution company, but translated for the crypto space.",
+        first: "We distribute experimental films using nonfungible tokens as movie tickets.",
+        second: "We're named after Gaspar Noe's 2002 film Irréversible, Cannes most walked-out-of-film, ever ;-).",
+        // third: "The DAO will perform operations associated with a typical film distribution company, but translated for the crypto space.",
     },
-    description: "We acquire, distribute, and exhibit films in the cryptospace. Read how.",
-    your_img_url: "https://i.imgur.com/ViBZfju.jpg",
+    description: "What does a decentralized Janus Films look like, anon?",
+    your_img_url: "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW5ibGlmZ3JkZHlxNTh6ZGQ5Z2loampkcHliaHF5M3Y1cGVoa29jZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vZrytE1pNKJBGruWOm/giphy.gif",
 };
 
 const tldr = {
