@@ -12,7 +12,7 @@ const introdata = {
         // third: "The DAO will perform operations associated with a typical film distribution company, but translated for the crypto space.",
     },
     description: "What does a decentralized Janus Films look like, anon?",
-    your_img_url: "https://media0.giphy.com/media/HLl2IBvuIiYYavFnKs/giphy.gif",
+    your_img_url: "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGs0bjRrejRkaDB5ZWtkMGZtbm13bjFuOXZwMTFrcGN5MHA4bGJtZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xiJd9kPuVqIbsHpbUX/giphy.gif",
 };
 
 const tldr = {
