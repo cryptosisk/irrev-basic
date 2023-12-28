@@ -38,7 +38,7 @@ const Headermain = () => {
                   <Link  onClick={handleToggle} to="/" className="my-3">Home</Link>
                   </li>
                   <li className="menu_item">
-                  <a href="https://irreversibledao.gitbook.io/docs/" target="_blank" onClick={handleToggle} className="my-3">🥷🏼 Join</a>
+                  <a href="https://docs.irreversible.wtf" target="_blank" onClick={handleToggle} className="my-3">🥷🏼 Join</a>
                   </li>
                   <li className="menu_item">
                     <Link  onClick={handleToggle} to="/films" className="my-3">🎞️ Films</Link>
